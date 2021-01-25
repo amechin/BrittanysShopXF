@@ -1,0 +1,15 @@
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/bin/Debug/netstandard2.0/BethanysPieShopStockApp.deps.json
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/bin/Debug/netstandard2.0/BethanysPieShopStockApp.dll
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/bin/Debug/netstandard2.0/ref/BethanysPieShopStockApp.dll
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/bin/Debug/netstandard2.0/BethanysPieShopStockApp.pdb
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/BethanysPieShopStockApp.csprojAssemblyReference.cache
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/BethanysPieShopStockApp.AssemblyInfoInputs.cache
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/BethanysPieShopStockApp.AssemblyInfo.cs
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/BethanysPieShopStockApp.csproj.CoreCompileInputs.cache
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/BethanysPieShopStockApp.dll
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/ref/BethanysPieShopStockApp.dll
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/BethanysPieShopStockApp.pdb
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/Views/PieDetailView.xaml.g.cs
+/Users/adrienmechin/Projects/applying-mvvm-xamarin-forms-applications/Assets/start/BethanysPieShopStockApp/BethanysPieShopStockApp/obj/Debug/netstandard2.0/Views/PieOverviewView.xaml.g.cs
